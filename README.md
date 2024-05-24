@@ -21,7 +21,7 @@ rcs 会检查xpsoed, 或者magisk等等环境, 我这里有一套能过的环境
 
 # 联系方式
 
-飞机✈️: feifeilove888888
+
 
 wx: love111_feifeifei
 
