@@ -18,11 +18,7 @@ rcs 会检查xpsoed, 或者magisk等等环境, 我这里有一套能过的环境
 5. 拦截消息
 
 
-# 联系方式
-
-
-
-wx: love111_feifeifei
+# [联系方式,点击查看](https://github.com/musi66/AndroidRobot)
 
 本文仅供学习交流，严禁用于商业用途
 
